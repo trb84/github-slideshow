@@ -1,5 +1,5 @@
 -----
-layout:slide
+
 # Tim Balchak
 
 -----
@@ -9,3 +9,4 @@ layout:slide
 - Interests: Green Energy Distribution, Consumer Electronic Manufacturing
 
 ------
+![Tim](tim.jpg)
