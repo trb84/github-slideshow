@@ -9,4 +9,3 @@
 - Interests: Green Energy Distribution, Consumer Electronic Manufacturing
 
 ------
-![Tim](tim.jpg)
